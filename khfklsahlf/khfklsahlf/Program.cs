@@ -9,7 +9,7 @@ namespace khfklsahlf
     class Program
     {
         static void Main(string[] args)
-        {
+        { global,kfj,gf,jg,jmgmg
         }
     }
 }
